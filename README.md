@@ -63,7 +63,8 @@ i)	#Selection Sort
 
 
 ii)	#Insertion Sort
-![Screenshot 2023-12-30 090611](https://github.com/23004027/Sorting-Algorithm/assets/138956447/3f1a119a-e38c-4e52-aac7-480deed3d0c0)
+![Screenshot 2023-12-30 090611](https://github.com/23004027/Sorting-Algorithm/assets/138956447/2c4c7a16-a110-4320-96f7-3ce4ae4f4f98)
+
 
 
 ## Result:
